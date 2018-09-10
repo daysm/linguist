@@ -665,6 +665,15 @@ Charity:
   tm_scope: none
   ace_mode: text
   language_id: 56
+ChordPro:
+  type: markup
+  extensions:
+  - ".cho"
+  - ".chopro"
+  - ".chordpro"
+  - ".crd"
+  - ".pro"
+  ace_mode: text
 ChucK:
   type: programming
   extensions:
